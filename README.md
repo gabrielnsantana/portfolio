@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](file:///C:/Users/PC/Pictures/Portfolio.png)
+![image]([file:///C:/Users/PC/Pictures/Portfolio.png](https://media.discordapp.net/attachments/1394146979621109760/1394147020247273522/Portfolio.png?ex=6875c017&is=68746e97&hm=d4fe94b7e00cc096ef881e6f2328e9298518964d9d8565c2ec39388374dbc35a&=&format=webp&quality=lossless&width=1386&height=864))
 
 ## Ferramentas utilizadas:
 
