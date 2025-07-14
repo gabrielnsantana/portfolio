@@ -1,5 +1,3 @@
-```
-
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](file:///C:/Users/PC/Pictures/Portfolio.png)
@@ -16,6 +14,5 @@
 
 ### Gabriel N. Santana
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/gabriel-n-santana/
 
-```
